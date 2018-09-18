@@ -1,31 +1,7 @@
-**/.DS_Store
-
-build/
-data/
-ds2i_config.hpp
-
-# Python junk
-*.pyc
-
-# Java junk
-.classpath
-.project
-*.jar
-.settings
-target/
-
-# CMake junk
-CMakeCache.txt
-CMakeFiles/
-Testing/
-
-# project specific
 *.qry
 *.lens
-*fwd
+*.fwd
 *.inv
 *.lex
 *.csv
-*.txt
 *.run
-*gov2*
